@@ -11,14 +11,12 @@ git branch -M main
 git push -u origin main
 
 
-![print1](https://github.com/user-attachments/assets/38875549-8c8c-40c8-aa0b-094929cf73d9)
+![print](https://github.com/user-attachments/assets/38875549-8c8c-40c8-aa0b-094929cf73d9)
 
-![print2](https://github.com/user-attachments/assets/c6c85a1d-617f-4d1f-a4d1-e1994b426fd7)
+![print](https://github.com/user-attachments/assets/7b0d52e4-9a40-4e78-acc6-718f191b1afc)
 
-![print3](https://github.com/user-attachments/assets/3de3dbdf-0f66-46d0-884f-922af6f15b3e)
+![print](https://github.com/user-attachments/assets/3de3dbdf-0f66-46d0-884f-922af6f15b3e)
 
-![print4](https://github.com/user-attachments/assets/dc796965-3144-426c-85c5-5232ae999d45)
+![print](https://github.com/user-attachments/assets/a28f62c9-da3e-45d6-8dd1-a2918f1d11dc)
 
-![print5](https://github.com/user-attachments/assets/a28f62c9-da3e-45d6-8dd1-a2918f1d11dc)
-
-![print7](https://github.com/user-attachments/assets/6d611a04-fa24-49a1-a6be-0fd8a4f627b5)
+![print](https://github.com/user-attachments/assets/6d611a04-fa24-49a1-a6be-0fd8a4f627b5)
