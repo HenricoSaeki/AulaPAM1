@@ -1,0 +1,11 @@
+F:\2A-DS-PI\Henrico e JoaoP\ds\C#\HenricoeJoaoP\HenricoeJoaoP\bin\Debug\HenricoeJoaoP.exe.config
+F:\2A-DS-PI\Henrico e JoaoP\ds\C#\HenricoeJoaoP\HenricoeJoaoP\bin\Debug\HenricoeJoaoP.exe
+F:\2A-DS-PI\Henrico e JoaoP\ds\C#\HenricoeJoaoP\HenricoeJoaoP\bin\Debug\HenricoeJoaoP.pdb
+F:\2A-DS-PI\Henrico e JoaoP\ds\C#\HenricoeJoaoP\HenricoeJoaoP\obj\Debug\HenricoeJoaoP.csproj.AssemblyReference.cache
+F:\2A-DS-PI\Henrico e JoaoP\ds\C#\HenricoeJoaoP\HenricoeJoaoP\obj\Debug\HenricoeJoaoP.frmprograma.resources
+F:\2A-DS-PI\Henrico e JoaoP\ds\C#\HenricoeJoaoP\HenricoeJoaoP\obj\Debug\HenricoeJoaoP.Properties.Resources.resources
+F:\2A-DS-PI\Henrico e JoaoP\ds\C#\HenricoeJoaoP\HenricoeJoaoP\obj\Debug\HenricoeJoaoP.csproj.GenerateResource.cache
+F:\2A-DS-PI\Henrico e JoaoP\ds\C#\HenricoeJoaoP\HenricoeJoaoP\obj\Debug\HenricoeJoaoP.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\Henrico e JoaoP\ds\C#\HenricoeJoaoP\HenricoeJoaoP\obj\Debug\HenricoeJoaoP.exe
+F:\2A-DS-PI\Henrico e JoaoP\ds\C#\HenricoeJoaoP\HenricoeJoaoP\obj\Debug\HenricoeJoaoP.pdb
+F:\2A-DS-PI\Henrico e JoaoP\ds\C#\HenricoeJoaoP\HenricoeJoaoP\obj\Debug\HenricoeJoaoP.frmgerador.resources
