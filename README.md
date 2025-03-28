@@ -1,3 +1,4 @@
+Henrico Saeki Rolim Issomura e João Paulo Amaral de Araujo
 
 git config --global user.name "jamaral33"
 
