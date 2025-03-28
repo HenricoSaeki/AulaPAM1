@@ -1,13 +1,22 @@
 
 git config --global user.name "jamaral33"
+
 git config --global user.email jpgamedev07@gmail.com
+
 cd HenricoeJoaoP
+
 git init
+
 git add .
+
 git status
+
 git commit -m "Commit da pasta e dos arquivos do projeto"
-Agit remote add origin https://github.com/HenricoSaeki/AulaPAM1.git
+
+git remote add origin https://github.com/HenricoSaeki/AulaPAM1.git
+
 git branch -M main
+
 git push -u origin main
 
 
